@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AccessRequest1" version="SHA-512:3828653fd3bb156730bd5e88a1cae03e7cb9ffd191abf1e61f66e52e1a3f9997a81368b60ca6488a353a9bdb3bf696fdb3e46bc9261add517eccee4a2d7390b2"/>
+        <VersionInfo resourceName="ExtractVariables-2" version="SHA-512:6573747735820f42948753fcf374ac06d3d70f8447daccb2960aff831ec2b2a53dd5b45189ae7696644bd53bf455e25f146313c7ba4203630cb46258f4b1ddc3"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:5a487bdf4c192966ecb1ad2dfe90f0385091fb4446055ebe24f9c73c9705a5989a6be6375aa1a5fdcbd0215aa1dfdf453d34e5ea20d0c159ba0b99b068a69bfb"/>
+        <VersionInfo resourceName="PreventcopyOfPathSuffix" version="SHA-512:e41bbb61e2a3d3de03c94fde6be72c323fc6e4efba939c9e6f96e3d44ba489dfef04f7d370ac6c1da439e9e869b685a480307f9fa44ae8bf3e9372be94fb316f"/>
+        <VersionInfo resourceName="ResponseCacheCacheHelloMessage" version="SHA-512:40ff5e25a99b0cdca889fb41becf1c570b815c2c57105a145ff7fa9ad6108963151f4f4534ddffcaed200249217db1552bdc0c45a72c8d8abd7f64da0f3720c3"/>
+        <VersionInfo resourceName="SpikeArrest" version="SHA-512:d31e1e8b852f3e98f4adaab2fbeb4e4fc38849f19a6bfb0e0a44b4e5f7b861140846741aef4416f2615232aef2366550a3a157236a8cd50c7a1ff6e80eb8cdb9"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:63f41202013a4778e86ccaf63915d4ab9686ac8529b3f66d08a5aef78e2aeb1135e5b1c455cfca79053fa494d61dd6bca612683ce64880922daadeb804b1460d"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:242cced06c507ecbad2397b8a6306123cb8cc9d66eb429a7d0fb9c910c3abaf428ee2f48ba34fd646548749e516117840d08be793a57ae7ab887330c6369c5a0"/>
+    </TargetEndpoints>
+</Manifest>

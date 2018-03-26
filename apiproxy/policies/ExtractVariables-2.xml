@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables name="ExtractVariables-2">
+    <DisplayName>DemoExtractVariablesPolicy</DisplayName>
+    <Source>request</Source>
+    <URIPath>
+        <Pattern ignoreCase="true">/v1/hello/{extractedVariable}</Pattern>
+        <Pattern ignoreCase="true">/v1/hello/{extractedVariable1}/b/{extractedVariable2}</Pattern>
+        <Pattern ignoreCase="true">/v1/hello/*/{extractedVariable}</Pattern>
+        <Pattern ignoreCase="true">/v1/hello/**/{extractedVariable}</Pattern>
+    </URIPath>
+    <VariablePrefix>myDemo</VariablePrefix>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+</ExtractVariables>

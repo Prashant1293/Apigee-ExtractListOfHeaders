@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TargetEndpoint name="default">
+    <PreFlow name="PreFlow">
+        <Request>
+            <Step>
+                <Name>PreventcopyOfPathSuffix</Name>
+            </Step>
+        </Request>
+        <Response/>
+    </PreFlow>
+    <PostFlow/>
+    <Flows/>
+    <HTTPTargetConnection>
+        <Properties/>
+        <URL>http://mocktarget.apigee.net</URL>
+    </HTTPTargetConnection>
+</TargetEndpoint>

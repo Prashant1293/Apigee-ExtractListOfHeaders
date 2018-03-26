@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ResponseCache async="false" continueOnError="false" enabled="true" name="ResponseCacheCacheHelloMessage">
+    <DisplayName>ResponseCache.CacheHelloMessage</DisplayName>
+    <CacheKey>
+        <KeyFragment ref="request.uri" type="string"/>
+        <KeyFragment ref="request.header.cacheKeyHeader.values" type="string"/>
+    </CacheKey>
+    <Scope>Application</Scope>
+    <ExpirySettings>
+        <TimeoutInSec ref="">60</TimeoutInSec>
+    </ExpirySettings>
+</ResponseCache>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage name="AccessRequest1">
+    <DisplayName>AccessRequest1</DisplayName>
+    <AssignTo createNew="false" type="request"/>
+    <Set>
+        <Headers>
+            <Header name="cacheKeyHeader">{request.header.user.values}{system.time}</Header>
+        </Headers>
+    </Set>
+</AssignMessage>

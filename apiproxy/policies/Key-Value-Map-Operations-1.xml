@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-1">
+    <DisplayName>Key Value Map Operations-1</DisplayName>
+    <Properties/>
+    <ExclusiveCache>false</ExclusiveCache>
+    <InitialEntries>
+        <Entry>
+            <Key>
+                <Parameter>PS</Parameter>
+            </Key>
+            <Value>"PrashantSharma"</Value>
+        </Entry>
+        <Entry>
+            <Key>
+                <Parameter>NB</Parameter>
+            </Key>
+            <Value>"Non"</Value>
+            <Value>"Brdw"</Value>
+        </Entry>
+        <Entry>
+            <Key>
+                <Parameter>JS</Parameter>
+            </Key>
+            <Value>"JigsSharma"</Value>
+        </Entry>
+    </InitialEntries>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>
